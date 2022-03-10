@@ -1,5 +1,5 @@
 {
-  "name": "@h4rdcoder/js-utils",
+  "name": "lau-js-utils",
   "version": "1.0.1",
   "description": "Various js utilities",
   "main": "out/index.js",
